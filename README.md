@@ -35,6 +35,10 @@ You can specify different host and port like below
 
 `redis_connect host: "177.11.22.33", port: 8801`
 
+## Examples
+
+To check more examples of Redis see [crystal-redis-example](https://github.com/stefanwille/crystal-redis-examples).
+
 ## Contributing
 
 1. Fork it ( https://github.com/sdogruyol/kemal-redis/fork )
